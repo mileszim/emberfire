@@ -24,6 +24,8 @@ env:
   - EMBER_TRY_SCENARIO=ember-data-2.10.x
   - EMBER_TRY_SCENARIO=ember-data-2.11.x
   - EMBER_TRY_SCENARIO=ember-data-2.12.x COVERAGE=true
+  - EMBER_TRY_SCENARIO=ember-data-2.13.x
+  - EMBER_TRY_SCENARIO=ember-data-2.14.x
   - EMBER_TRY_SCENARIO=ember-data-beta
   - EMBER_TRY_SCENARIO=ember-data-canary
 
